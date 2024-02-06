@@ -1,0 +1,362 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "category": "Sedan",
+      "description": "Reliable and fuel-efficient sedan with a spacious interior.",
+      "price": "$25,000",
+      "type": "Gasoline",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2021-toyota-camry-hybrid-xle-102-1603151475.jpg?crop=0.619xw:0.463xh;0.316xw,0.473xh&resize=640:*"
+    },
+    {
+      "id": 2,
+      "name": "Ford Escape",
+      "category": "SUV",
+      "description": "Compact SUV with advanced safety features and versatile cargo space.",
+      "price": "$28,000",
+      "type": "Hybrid",
+      "image": "https://npr.brightspotcdn.com/dims4/default/8f2c267/2147483647/strip/true/crop/3792x2736+0+0/resize/880x635!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F4d%2Fdea8a10b4bd0bb6431c49525e219%2Fford2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chevrolet Cruze",
+      "category": "Hatchback",
+      "description": "Compact hatchback with a sporty design and nimble handling.",
+      "price": "$22,000",
+      "type": "Gasoline",
+      "image": "https://i.gaw.to/vehicles/photos/09/25/092505_2019_chevrolet_Cruze.jpg?640x400"
+    },
+    {
+      "id": 4,
+      "name": "Honda Pilot",
+      "category": "SUV",
+      "description": "Family-friendly midsize SUV with three-row seating and advanced safety.",
+      "price": "$35,000",
+      "type": "Gasoline",
+      "image": "https://www.usnews.com/object/image/0000018c-457f-dc8f-addc-ef7fda470001/24-honda-pilot-ext1.jpg?update-time=1701973208102&size=listiclePhoto"
+    },
+    {
+      "id": 5,
+      "name": "Tesla Model Y",
+      "category": "Electric",
+      "description": "Compact electric SUV with cutting-edge technology and impressive range.",
+      "price": "$48,000",
+      "type": "Electric",
+      "image": "https://www.motortrend.com/uploads/2023/10/029-2023-tesla-model-y.jpg?fit=around%7C875:492"
+    },
+    {
+      "id": 6,
+      "name": "Nissan Altima",
+      "category": "Sedan",
+      "description": "Midsize sedan with a comfortable ride and fuel-efficient engine.",
+      "price": "$27,000",
+      "type": "Gasoline",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2019-nissan-altima-12-source-1200x699-1562955653.jpg?crop=0.760xw:0.798xh;0.218xw,0&resize=980:*"
+    },
+    {
+      "id": 7,
+      "name": "Jeep Compass",
+      "category": "SUV",
+      "description": "Compact SUV with off-road capabilities and a rugged design.",
+      "price": "$30,000",
+      "type": "Gasoline",
+      "image": "https://stat.overdrive.in/wp-content/uploads/2023/09/Compass-BS-BRoll44-1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hyundai Sonata",
+      "category": "Sedan",
+      "description": "Elegant and feature-packed sedan with modern technology.",
+      "price": "$26,000",
+      "type": "Hybrid",
+      "image": "https://i.gaw.to/vehicles/photos/40/33/403308-2023-hyundai-sonata.jpg?1024x640"
+    },
+    {
+      "id": 9,
+      "name": "Mazda3",
+      "category": "Hatchback",
+      "description": "Stylish hatchback with a sporty design and agile handling.",
+      "price": "$24,000",
+      "type": "Gasoline",
+      "image": "https://cars.usnews.com/pics/size/640x420/images/Auto/custom/15310/2024_Mazda3_Angular_Front_1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Audi Q5",
+      "category": "Luxury SUV",
+      "description": "Premium SUV with a luxurious interior and advanced tech features.",
+      "price": "$50,000",
+      "type": "Hybrid",
+      "image": "https://www.motortrend.com/uploads/2023/07/11204-2024-Audi-Q5-Sportback-front-view.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Subaru Crosstrek",
+      "category": "Crossover",
+      "description": "Compact crossover with all-wheel drive and rugged styling.",
+      "price": "$26,000",
+      "type": "Gasoline",
+      "image": "https://di-uploads-pod46.dealerinspire.com/hileysubaru/uploads/2023/07/2024-subaru-crosstrek-blue-far-1663251578.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Kia Sorento",
+      "category": "SUV",
+      "description": "Midsize SUV with a spacious and well-appointed interior.",
+      "price": "$32,000",
+      "type": "Hybrid",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-kia-sorento-103-6554e5ef0b819.jpg?crop=0.632xw:0.711xh;0.206xw,0.227xh&resize=1200:*"
+    },
+    {
+      "id": 13,
+      "name": "Lexus ES",
+      "category": "Luxury Sedan",
+      "description": "Luxurious sedan with a smooth ride and premium materials.",
+      "price": "$55,000",
+      "type": "Hybrid",
+      "image": "https://parkers-images.bauersecure.com/wp-images/22019/cut-out/930x620/90-lexus-es-front34.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chevrolet Silverado",
+      "category": "Truck",
+      "description": "Robust and capable full-size pickup truck for work and play.",
+      "price": "$40,000",
+      "type": "Gasoline",
+      "image": "https://preview.redd.it/xmddeyp36nv41.jpg?auto=webp&s=ca4b3c770f651bede23675000a0250823d4d8753"
+    },
+    {
+      "id": 15,
+      "name": "Kia Telluride",
+      "category": "SUV",
+      "description": "Midsize SUV with three rows of seating and advanced safety tech.",
+      "price": "$42,000",
+      "type": "Gasoline",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10best-trucks-suvs-2023-kia-telluride-105-1673299910.jpg?crop=0.474xw:0.535xh;0.200xw,0.357xh&resize=768:*"
+    },
+    {
+      "id": 16,
+      "name": "Porsche Taycan",
+      "category": "Electric",
+      "description": "High-performance electric sedan with a luxurious interior.",
+      "price": "$90,000",
+      "type": "Electric",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-porsche-taycan-sport-turismo-gts-15-1638148397.jpg?crop=0.642xw:0.480xh;0.213xw,0.312xh&resize=640:*"
+    },
+    {
+      "id": 17,
+      "name": "Ford Edge",
+      "category": "SUV",
+      "description": "Midsize SUV with a comfortable ride and advanced tech features.",
+      "price": "$33,000",
+      "type": "Gasoline",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjUTemVrErnCDDIta71mj-_AbwODkm-xFhQ&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "name": "BMW X3",
+      "category": "Luxury SUV",
+      "description": "Luxurious compact SUV with powerful performance and advanced features.",
+      "price": "$58,000",
+      "type": "Hybrid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGoG047XnZB3_xUU4smkYI2dY6j5Ozy5K8Q&usqp=CAU"
+    },
+    {
+      "id": 19,
+      "name": "Toyota RAV4",
+      "category": "SUV",
+      "description": "Popular crossover SUV with a spacious interior and off-road capabilities.",
+      "price": "$32,000",
+      "type": "Hybrid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUB323_MCUhl8Fhz31nPUNqFWcOEHYgIhM7A&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "name": "Mercedes-Benz C-Class",
+      "category": "Luxury Sedan",
+      "description": "Elegant and sophisticated luxury sedan with cutting-edge technology.",
+      "price": "$52,000",
+      "type": "Hybrid",
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220509113327_C_Class_opening_shot.jpg&w=726&h=482&q=75&c=1"
+    },
+    {
+      "id": 21,
+      "name": "Toyota Corolla",
+      "category": "Sedan",
+      "description": "Compact and fuel-efficient sedan, perfect for city commuting.",
+      "price": "$23,000",
+      "type": "Gasoline",
+      "image": "https://imgd.aeplcdn.com/1280x720/ec/c5/A2/13715/img/orig/Toyota-Corolla-Altis-28754.jpg?t=185435440&t=185435440"
+    },
+    {
+      "id": 22,
+      "name": "Ford F-150",
+      "category": "Truck",
+      "description": "Best-selling pickup truck with powerful towing capacity and off-road capability.",
+      "price": "$35,000",
+      "type": "Gasoline",
+      "image": "https://www.autodeal.com.ph/custom/car-model-photo/original/2022-ford-f-150-diesel-exterior-61a09bad4e7d2.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Volkswagen Tiguan",
+      "category": "SUV",
+      "description": "Compact SUV with a stylish design and comfortable interior.",
+      "price": "$28,000",
+      "type": "Gasoline",
+      "image": "https://media.ed.edmunds-media.com/volkswagen/tiguan/2022/oem/2022_volkswagen_tiguan_4dr-suv_sel-r-line_fq_oem_1_1600.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Tesla Model S",
+      "category": "Electric",
+      "description": "Luxury electric sedan with impressive range and high-performance capabilities.",
+      "price": "$75,000",
+      "type": "Electric",
+      "image": "https://images.prismic.io/carwow/a0b54c70-b58c-482c-8d28-b72884380e42_2023+Tesla+Model+S+front+quarter+static.jpg?fit=clip&q=60&w=750&cs=tinysrgb&auto=format"
+    },
+    {
+      "id": 25,
+      "name": "Chevrolet Silverado",
+      "category": "Truck",
+      "description": "Robust and reliable full-size pickup truck for heavy-duty tasks.",
+      "price": "$40,000",
+      "type": "Gasoline",
+      "image": "https://di-uploads-pod1.dealerinspire.com/dalebenetchevy/uploads/2023/01/2021-Chevy-Silverado-1500-black.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Honda Civic",
+      "category": "Sedan",
+      "description": "Compact sedan known for its reliability, fuel efficiency, and sporty design.",
+      "price": "$25,000",
+      "type": "Gasoline",
+      "image": "https://cars.usnews.com/static/images/Auto/custom/15550/2024_Honda_Civic_Angular_Rear_1.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Jeep Grand Cherokee",
+      "category": "SUV",
+      "description": "Midsize SUV with a blend of off-road capability and luxurious features.",
+      "price": "$38,000",
+      "type": "Gasoline",
+      "image": "https://cdn-fastly.thetruthaboutcars.com/media/2022/08/19/09101/2022-jeep-grand-cherokee-l-review-filling-niches-and-climbing-over-them.jpg?size=1200x628"
+    },
+    {
+      "id": 28,
+      "name": "Nissan Rogue",
+      "category": "Crossover",
+      "description": "Popular crossover SUV with a spacious interior and advanced safety features.",
+      "price": "$29,000",
+      "type": "Gasoline",
+      "image": "https://wieck-nissanao-production.s3.amazonaws.com/photos/8da39fea11d87e1a2793f3747928f39ea216e49c/preview-928x522.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Mazda CX-5",
+      "category": "Crossover",
+      "description": "Stylish crossover with a comfortable ride and fuel-efficient engine.",
+      "price": "$27,000",
+      "type": "Gasoline",
+      "image": "https://npr.brightspotcdn.com/dims4/default/17fa198/2147483647/strip/true/crop/3366x1893+0+187/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F86%2Fa719d1ab47cbbf6b2921f785a575%2Fmazda2.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Audi A4",
+      "category": "Luxury Sedan",
+      "description": "Elegant and performance-oriented luxury sedan with advanced technology.",
+      "price": "$50,000",
+      "type": "Hybrid",
+      "image": "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_fq_oem_8_1280.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Subaru Outback",
+      "category": "Wagon",
+      "description": "Spacious wagon with all-wheel drive and off-road capabilities.",
+      "price": "$32,000",
+      "type": "Gasoline",
+      "image": "https://img.sm360.ca/images/article/subaru-of-kingston/85984//21obk_ltd_tunnel_bbm_medium1618089379005.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Hyundai Tucson",
+      "category": "SUV",
+      "description": "Compact SUV with a modern design and user-friendly features.",
+      "price": "$26,000",
+      "type": "Gasoline",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Tucson/7509/1594715357564/front-left-side-47.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Lexus RX",
+      "category": "Luxury SUV",
+      "description": "Premium SUV with a luxurious interior and advanced safety features.",
+      "price": "$60,000",
+      "type": "Hybrid",
+      "image": "https://www.motortrend.com/uploads/2022/05/2021-Lexus-RX350-F-SPORT-front-three-quarter-1.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Ford Mustang",
+      "category": "Sports Car",
+      "description": "Iconic American muscle car with a powerful V8 engine and sleek design.",
+      "price": "$45,000",
+      "type": "Gasoline",
+      "image": "https://www.motortrend.com/uploads/2023/08/008-2024-Ford-Mustang-GT-Premium-Performance-pack-front-three-quarters.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Kia Telluride",
+      "category": "SUV",
+      "description": "Midsize SUV with a spacious and well-designed interior for family adventures.",
+      "price": "$42,000",
+      "type": "Gasoline",
+      "image": "https://www.motortrend.com/uploads/sites/5/2020/11/2020-Kia-Telluride-SX-V6-AWD-11.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Porsche 911",
+      "category": "Sports Car",
+      "description": "Legendary sports car known for its performance, handling, and iconic design.",
+      "price": "$110,000",
+      "type": "Gasoline",
+      "image": "https://i.gaw.to/vehicles/photos/40/25/402523-2021-porsche-911.jpg?1024x640"
+    },
+    {
+      "id": 37,
+      "name": "Chevrolet Equinox",
+      "category": "Crossover",
+      "description": "Compact crossover with a comfortable ride and modern tech features.",
+      "price": "$31,000",
+      "type": "Gasoline",
+      "image": "https://di-uploads-pod31.dealerinspire.com/zeiglerchevyofschaumburg/uploads/2022/12/2023-chevy-equinox.png"
+    },
+    {
+      "id": 38,
+      "name": "BMW X3",
+      "category": "Luxury SUV",
+      "description": "Luxurious compact SUV with advanced technology and a premium interior.",
+      "price": "$55,000",
+      "type": "Hybrid",
+      "image": "https://cdn.carbuzz.com/gallery-images/1600/970000/300/970300.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Toyota RAV4",
+      "category": "SUV",
+      "description": "Popular crossover SUV with a reliable reputation and fuel-efficient engine.",
+      "price": "$32,000",
+      "type": "Hybrid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUB323_MCUhl8Fhz31nPUNqFWcOEHYgIhM7A&usqp=CAU"
+    },
+    {
+      "id": 40,
+      "name": "Mercedes-Benz C-Class",
+      "category": "Luxury Sedan",
+      "description": "Sophisticated and stylish luxury sedan with cutting-edge technology.",
+      "price": "$52,000",
+      "type": "Hybrid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSz-dyw78kDdbq4NWwBRZShqB8liMR0XZm_w&usqp=CAU"
+    }
+  ]
