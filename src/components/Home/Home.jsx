@@ -1,6 +1,7 @@
 import useData from "../../hooks/useData";
 import CarCard from "../CarCard/CarCard";
 
+
 const Home = () => {
     const cars = useData();
 
